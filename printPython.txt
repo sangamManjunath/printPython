@@ -1,5 +1,5 @@
 # print() function example
 print("GeeksforGeeks")
 
-a = [1, 2, 'gfg']
+a = [1, 2, 'abc']
 print(a)
